@@ -1,0 +1,6 @@
+Para instalar, entre no diretório src do CRUDAng10Core3-Pt1 e dê o comando: npm install (como o node.js e npm instalados é claro!)
+
+CRUDAng10Core3-Pt1 é o Angular e CRUDAng10Core3-Pt2 é o C# Core
+O Solution em C# Core deve ser iniciado e depois no Angular que interage com ele.
+No diretório raiz (CRUDAng10Core3-Pt1) dê um comando: ng serve -o
+Vc pode dar um Ctrl+C e sair do arquivo em lote do Angular sem afetar o servidor do Angular que mantem ele funcionando.
